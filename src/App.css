@@ -17,10 +17,13 @@ li{
   font-size: 20px;
 }
 
-.content_list ul li{
-  padding: 10px 20px;
+.list{
+  margin-top: 30px;
+  text-align:left;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-.content_list ul li:nth-child(2n-1){
-  background-color: #ddd;
+.list p{
+  margin: 10px 0;
 }
