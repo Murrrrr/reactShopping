@@ -27,3 +27,9 @@ li{
 .list p{
   margin: 10px 0;
 }
+
+.modal{
+  padding: 20px;
+  background: #eee;
+  margin-top: 20px;
+}
